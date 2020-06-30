@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/vectordrawable/vectordrawable/1.1.0/vectordrawable-1.1.0.aar
+depends=androidx.annotation;androidx.collection;androidx.core

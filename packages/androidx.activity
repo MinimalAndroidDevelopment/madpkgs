@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/activity/activity/1.1.0/activity-1.1.0.aar
+depends=androidx.annotation;androidx.core;androidx.lifecycle-runtime;androidx.lifecycle-viewmodel;androidx.lifecycle-viewmodel-savedstate;androidx.savedstate

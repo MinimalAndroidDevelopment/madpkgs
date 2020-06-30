@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/drawerlayout/drawerlayout/1.1.0/drawerlayout-1.1.0.aar
+depends=androidx.core;androidx.annotation;androidx.customview

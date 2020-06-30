@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/fragment/fragment/1.2.5/fragment-1.2.5.aar
+depends=androidx.activity;androidx.annotation;androidx.collection;androidx.core;androidx.lifecycle-livedata-core;androidx.lifecycle-viewmodel;androidx.lifecycle-viewmodel-savedstate;androidx.loader;androidx.viewpager

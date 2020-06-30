@@ -1,3 +1,2 @@
 source=https://maven.google.com/androidx/appcompat/appcompat/1.1.0/appcompat-1.1.0.aar
-depends=androidx.annotation;androidx.appcompat-resources;androidx.collection;androidx.core;androidx.cursoradapter;androidx.drawerlayout;
-    androidx.fragment
+depends=androidx.annotation;androidx.appcompat-resources;androidx.collection;androidx.core;androidx.cursoradapter;androidx.drawerlayout;androidx.fragment

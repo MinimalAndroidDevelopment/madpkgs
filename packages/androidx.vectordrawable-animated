@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/vectordrawable/vectordrawable-animated/1.1.0/vectordrawable-animated-1.1.0.aar
+depends=androidx.collection;androidx.interpolator;androidx.vectordrawable

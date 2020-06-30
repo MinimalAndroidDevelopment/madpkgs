@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/appcompat/appcompat-resources/1.1.0/appcompat-resources-1.1.0.aar
+depends=androidx.annotation;androidx.collection;androidx.core;androidx.vectordrawable;androidx.vectordrawable-animated

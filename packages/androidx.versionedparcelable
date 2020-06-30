@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/versionedparcelable/versionedparcelable/1.1.1/versionedparcelable-1.1.1.aar
+depends=androidx.annotation;androidx.collection

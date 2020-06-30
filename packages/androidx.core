@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/core/core/1.3.0/core-1.3.0.aar
+depends=androidx.annotation;androidx.lifecycle-runtime;androidx.versionedparcelable
