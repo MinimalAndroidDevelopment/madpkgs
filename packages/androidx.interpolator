@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/interpolator/interpolator/1.0.0/interpolator-1.0.0.aar
+depends=androidx.annotation

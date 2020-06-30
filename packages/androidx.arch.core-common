@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/arch/core/core-common/2.1.0/core-common-2.1.0.jar
+depends=androidx.annotation

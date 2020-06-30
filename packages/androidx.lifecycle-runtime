@@ -1,2 +1,2 @@
 source=https://maven.google.com/androidx/lifecycle/lifecycle-runtime/2.2.0/lifecycle-runtime-2.2.0.aar
-depends=androidx.annotation;androidx.arch.core.core-common;androidx.lifecycle-common
+depends=androidx.annotation;androidx.arch.core-common;androidx.lifecycle-common

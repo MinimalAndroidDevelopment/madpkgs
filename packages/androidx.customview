@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/customview/customview/1.1.0/customview-1.1.0.aar
+depends=androidx.annotation;androidx.core
