@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/savedstate/savedstate/1.0.0/savedstate-1.0.0.aar
+depends=androidx.annotation;androidx.arch.core-common;androidx.lifecycle-common;

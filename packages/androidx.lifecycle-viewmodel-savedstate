@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.2.0/lifecycle-viewmodel-savedstate-2.2.0.aar
+depends=androidx.annotation;androidx.lifecycle-livedata-core;androidx.lifecycle-viewmodel;androidx.savedstate

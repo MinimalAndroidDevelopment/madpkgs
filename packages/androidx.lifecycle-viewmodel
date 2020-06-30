@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/lifecycle/lifecycle-viewmodel/2.2.0/lifecycle-viewmodel-2.2.0.aar
+depends=androidx.annotation
