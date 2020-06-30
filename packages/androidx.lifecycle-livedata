@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/lifecycle/lifecycle-livedata/2.2.0/lifecycle-livedata-2.2.0.aar
+depends=androidx.arch.core-runtime;androidx.arch.core-common;androidx.lifecycle-livedata-core

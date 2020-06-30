@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/viewpager/viewpager/1.0.0/viewpager-1.0.0.aar
+depends=androidx.annotation;androidx.core;androidx.customview;

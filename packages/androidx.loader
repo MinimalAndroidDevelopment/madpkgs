@@ -1,0 +1,2 @@
+source=https://maven.google.com/androidx/loader/loader/1.0.0/loader-1.0.0.aar
+depends=androidx.annotation;androidx.core;androidx.lifecycle-livedata;androidx.lifecycle-viewmodel;
